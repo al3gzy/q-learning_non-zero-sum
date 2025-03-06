@@ -1,6 +1,6 @@
 # Non-Zero-Sum Stochastic Games in Derivative Pricing
 
-## Overview
+## 📌 Overview
 
 This project explores the use of non-zero-sum stochastic games for derivative pricing. By incorporating game theory and stochastic processes, it models the strategic interactions between multiple market participants, offering a more dynamic approach compared to traditional pricing models. The goal is to capture how traders' competitive and cooperative behavior impacts pricing mechanisms.
 
